@@ -1,2 +1,2 @@
 # eigenfaces
-  A quick class I made to implement the eigenfaces algorithm with a reconstruction feature. Don't hesitate to ask questions.
+  A quick class I made to implement the eigenfaces algorithm with a reconstruction feature. Basically, after calculating the SVD of the database of faces, we can extract a basis for faces. This basis can then be used for a wide range of applications. My class allows you to give it any database of images and create this basis for its faces. Execute `code_test.py` if you want to have a quick test with the provided files. Don't hesitate to ask questions I'm always available !
